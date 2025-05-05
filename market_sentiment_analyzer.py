@@ -6,8 +6,8 @@ import requests
 from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt
 
-# --- CONFIG ---
-ASSET = "BTC-USD"  # Change to stock symbol like "AAPL" or "ETH-USD"
+# --- Sample CONFIG ---
+ASSET = "BTC-USD" 
 PERIOD = "3mo"
 INTERVAL = "1d"
 
